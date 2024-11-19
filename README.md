@@ -1,5 +1,4 @@
-# IMAM
-CV
+# CV_IMAM
 <html>
 <head>
     <title>CV Imam</title>
@@ -70,52 +69,3 @@ CV
     </div>    
 </body>
 </html>
-
-body{
-    background-color: rgb(255, 255, 255);
-}
-
-img{
-    width: 200px;
-    height: 185px;
-    background-size: cover;
-    border-radius:100%;
-    padding: 40px;
-    align-items: center;
-    zoom: 90%;
-}
-h2{
-    font-family: 'Times New Roman', Times, serif;
-    font-style: bold;
-    font-size: 40px;
-    text-align: center;
-    color: black;
-}
-
-h3{
-    font-size: large;
-    font-family: 'Times New Roman', Times, serif;
-    font-style: bold;
-    font-style: italic;
-    color: black;
-}
-
-p{
-    font-size: larger;
-    font-family: 'Times New Roman', Times, serif;
-    color: rgb(34, 31, 232);
-}
-
-hr{
-    border: none;
-    height: 1px;
-    color: #333;
-    background-color: #333;
-}
-
-li{
-    font-size: large;
-    font-family: 'Times New Roman', Times, serif;
-    font-style: bold;
-    color: rgb(22, 22, 22);
-}
